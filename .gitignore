@@ -1,0 +1,22 @@
+# Python cache ve temp dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Keras / TensorFlow model dosyaları
+*.h5
+*.hdf5
+
+# Büyük Windows exe dosyaları
+*.exe
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/
+
+# VS Code ayarları
+.vscode/
+
+# Upload klasörü (isteğe bağlı)
+uploads/
+
